@@ -43,6 +43,8 @@ _for procutcive path of QA Engineer_
 
 - [Виды шрифтов](https://practicum.yandex.ru/blog/vidy-shriftov-v-dizaine/) 👌✅
 
+- [HTTPSter](https://httpster.net "Great place for moody!")
+
 ## 🛠️ API
 
 [Шпаргалка](https://code.s3.yandex.net/qa/files/summary-api.pdf) ✅
@@ -71,23 +73,23 @@ _for procutcive path of QA Engineer_
 
 ### Android
 
-[Консольный Android: 50 команд ADB, о которых должен знать каждый](https://xakep.ru/2016/05/12/android-adb/)
+- [Консольный Android: 50 команд ADB, о которых должен знать каждый](https://xakep.ru/2016/05/12/android-adb/)
 
-[Официальная документация Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb)
+- [Официальная документация Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb)
 
-[Shell: абсолютно первые шаги](https://habr.com/ru/post/267825/)
+- [Shell: абсолютно первые шаги](https://habr.com/ru/post/267825/)
 
 ### Guideline
 
-[IOS](https://developer.apple.com/design/human-interface-guidelines/)
+- [IOS](https://developer.apple.com/design/human-interface-guidelines/)
 
-[Material Design](https://habr.com/ru/companies/redmadrobot/articles/252773/) 👀👍
+- [Material Design](https://habr.com/ru/companies/redmadrobot/articles/252773/) 👀👍
 
 ### Knowledge
 
-[Android Knowledgebase](https://developer.android.com/develop/ui/compose/components) 👍👀
+- [Android Knowledgebase](https://developer.android.com/develop/ui/compose/components) 👍👀
 
-[Чек-лист: публикация приложения в сторах](https://code.s3.yandex.net/qa/files/cv-check-list-full_2.pdf)   
+- [Чек-лист: публикация приложения в сторах](https://code.s3.yandex.net/qa/files/cv-check-list-full_2.pdf)   
 
 ## Инструменты
 
@@ -109,7 +111,7 @@ _for procutcive path of QA Engineer_
 
 [PyCharm Hotkeys](https://code.s3.yandex.net/qa-automation-engineer/python/cheatsheets/sprint1/pycharm_hotkeys.pdf)
 
-## Бездна…
+## Бездна… (не проверено!)
 
 [Основные характеристики элементов верстки](https://docs.google.com/document/d/1OT2TFP6g4icg0jx1H7Zq3AZE4JEg2xAjlsKGtia5llE/edit?tab=t.0#heading=h.ngc5t5t6poo)
 
@@ -123,13 +125,8 @@ https://reqres.in see
 
 https://stepik.org/course/63054/promo
 
-<https://quizlet.com/855580079/Вопросы-для-подготовки-к-собеседованию-flash-cards/>
-
-<https://httpster.net/>
+https://quizlet.com/855580079/Вопросы-для-подготовки-к-собеседованию-flash-cards
 
 
 
-
-Under construction
-
-
+🚧 Under construction
