@@ -67,7 +67,10 @@ _for procutcive path of QA Engineer_
 
 [Все что нужно для работы с WSDL](https://rche.ru/5089_vse-chto-nuzhno-dlya-raboty-s-wsdl.html) **(ЖЕСТЬ!)**
 
+## Data Bases
 
+- [Памятка/шпаргалка по SQL [Хабр]](https://habr.com/ru/articles/564390/)
+- [Документтация PostgreSQL](https://postgrespro.ru/docs/postgresql/17/index)
 
 ## Mobile
 
